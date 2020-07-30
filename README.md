@@ -1,6 +1,6 @@
 <!--
 **tri47/tri47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Hey, hey.**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Hey, hey.**
+![](https://raw.githubusercontent.com/tri47/tri47/master/Tri_github.png)
 Hi, this is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree'). I am a DATA GEEK based in <span class="red-text">**Melbourne, Australia**</span>. My mission is to make it a bit easier for people and organisations to find <span class="red-text">**facts that matter**</span> to them in a perflexing, connected world. 
 
 Visit my data blog - [scatta.cc](https://www.scatta.cc) for my writings on data visualisation, NLP and digital products.
