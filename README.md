@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tri47/tri47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, this is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree'). I am a DATA GEEK based in <span class="red-text">**Melbourne, Australia**</span>. My mission is to make it a bit easier for people and organisations to find <span class="red-text">**facts that matter**</span> to them in a perflexing, connected world. <span class="red-text">**Scatta**</span> is a repository for my writings on data visualisation, NLP and digital products.
+Hi, this is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree'). I am a DATA GEEK based in <span class="red-text">**Melbourne, Australia**</span>. My mission is to make it a bit easier for people and organisations to find <span class="red-text">**facts that matter**</span> to them in a perflexing, connected world. 
+
+Visit my website - [SCATTA.cc](https://www.scatta.cc) for my writings on data visualisation, NLP and digital products.
 
 Find me on [**LinkedIn**](https://www.linkedin.com/in/tri-q-nguyen).
 
