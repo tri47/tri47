@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Hey, hey. :wave:**
-
+<!--
 <br>
 
 ![](https://raw.githubusercontent.com/tri47/tri47/master/Tri_github.png)
 <br>
-
+-->
 Hi, this is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree'). I am a **data geek** based in <span class="red-text">**Melbourne, Australia :coffee: :coffee:**</span>. 
 
 **My mission:** to make it a bit easier for people and organisations to find <span class="red-text">**facts that matter**</span> to them.
