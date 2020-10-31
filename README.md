@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/tri47/tri47/master/Tri_github.png)
 <br>
 -->
-This is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree'), a data geek based in <span class="red-text">**Melbourne, Australia :coffee: :coffee:**</span>. 
+This is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree'), a data geek based in <span class="red-text">**Melbourne, Australia :coffee: :coffee:**</span>. I am working at Openpay as a <span class="red-text">**Product Data Analyst**</span>.
 
 **My mission:** to make it a bit easier for people and organisations to find <span class="red-text">**facts that matter**</span> to them.
 
 Visit my blog - [scatta.cc](https://www.scatta.cc) - for my writings on data visualisation :chart_with_upwards_trend:, AI :robot: and digital products.
 
 ---
-I am working at Openpay as a <span class="red-text">**Product Data Analyst**</span>. I also worked as a Developer and Engineer at Telstra, Spectrum Engineering and CSIRO. My bachelor degree was in Engineering from [**ANU**](https://www.anu.edu.au/).
+Have we got something in common? I worked as a Developer and Engineer at Telstra, Spectrum Engineering and CSIRO. My bachelor degree was in Engineering from [**ANU**](https://www.anu.edu.au/).
 
 I am also studying part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). Go Jackets :honeybee: :honeybee:!
 
