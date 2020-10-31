@@ -26,7 +26,7 @@ This is <span class="red-text" style="font-size: 16px"> **Tri**</span> ('tree').
 Visit my blog - [scatta.cc](https://www.scatta.cc) - for my writings on data visualisation :chart_with_upwards_trend:, AI and digital products.
 
 ---
-I am working as a <span class="red-text">**Product Data Analyst**</span> at Openpay, and have also worked as a Developer and Engineer at Telstra, Spectrum Engineering and CSIRO. My bachelor degree was in Engineering from [**ANU**](https://www.anu.edu.au/).
+I am a <span class="red-text">**Product Data Analyst**</span> at Openpay, and have also worked as a Developer and Engineer at Telstra, Spectrum Engineering and CSIRO. My bachelor degree was in Engineering from [**ANU**](https://www.anu.edu.au/).
 
 I am also studying part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). Go Jackets :honeybee: :honeybee:!
 
