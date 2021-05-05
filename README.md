@@ -27,7 +27,7 @@ Visit my blog - [scatta.cc](https://www.scatta.cc) - for my writings on data vis
 ---
 Have we got something in common? I worked as a Developer and Engineer at Telstra, Spectrum Engineering and CSIRO. 
 
-I am also studying part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). Go Jackets :honeybee: :honeybee:. My bachelor degree was in Engineering at the [**ANU**](https://www.anu.edu.au/).
+I am also studying part-time for a Master in Computer Science at [**Georgia Tech**](https://www.gatech.edu/). Go Jackets :honeybee: :honeybee:. My bachelor degree was in Engineering at the [**ANU**](https://www.anu.edu.au/).
 
 While not at my desk, I enjoy bouldering, Judo :muscle:, hiking and strategy board games.
 
